@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to my space!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am an up and coming programmer interested in many different topics, master of none. Here you can find many different projects done in my spare time. 
 
