@@ -10,8 +10,3 @@ Everything from webb apps, api;s, games and anything I am interested in creating
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/redines)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redines)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/redines)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=redines)  
-
